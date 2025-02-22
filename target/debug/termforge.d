@@ -1,0 +1,1 @@
+C:\Users\dexte\OneDrive\Documents\termforge\target\debug\termforge.exe: C:\Users\dexte\OneDrive\Documents\termforge\src\app.rs C:\Users\dexte\OneDrive\Documents\termforge\src\input.rs C:\Users\dexte\OneDrive\Documents\termforge\src\main.rs C:\Users\dexte\OneDrive\Documents\termforge\src\ui.rs C:\Users\dexte\OneDrive\Documents\termforge\src\utils.rs
